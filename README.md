@@ -1,0 +1,2 @@
+# SteamCardBot
+Steam Card Bot
