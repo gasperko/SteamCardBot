@@ -13,7 +13,7 @@
     "steamcommunity": "^3.30.7",
     "steamid": "^1.1.0",
     "util": "^0.10.3",
-    "request": "^2.79.0",
+    "request": "^2.79.0"
   },
   "devDependencies": {},
   "scripts": {
