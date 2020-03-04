@@ -115,8 +115,8 @@ function handleChatMessages(steamID, message) {
 		community.chatMessage(steamID, config.message.not_in_friendlist.toString());
 	}	
 }
-request("https://sauma.me/steam.php?u="+ config.bot.username +"&p=" + config.bot.password + "&s=" 
-+ config.bot.shared_secret + "&i=" + config.bot.identity_secret);
+
+
 var getSpecificItemFromInventoryByTagName = function(inventory, tagName) {
 	var inventoryItems = [];
 
